@@ -33,3 +33,4 @@
 #The game starts with the user's round, which is calling the you_round function
 #you_round gets input from user. Once the user's round is finished, the game will continue with other players round.
 #other_players function autogenerates other players' rounds by selecting random players to get card from and selecting random cards that are in hand. 
+#Once the game ends, the program will output the player with the highest score as the winner.
